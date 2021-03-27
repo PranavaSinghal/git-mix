@@ -1,2 +1,2 @@
-#Testing out git on my pc
+# Testing out git on my pc
 pushing local repos onto GitHub
